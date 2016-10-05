@@ -21,22 +21,22 @@ h1 {
 }
 
 button {
+	margin-top: 2rem;
 	padding: 1rem 2rem;
 	background-color: transparent;
 	border-color: green;
 	border-radius: 2rem;
 	font-size: 1rem;
 	font-weight: bold;
-	color: green;
+	color: #fff;
 	cursor: pointer;
 	transition: 0.5s;
 }
 button:hover {
-	background-color: green;
-	color: #fff;
+	background-color: darkgreen;
+	color: #d9d9d9;
 }
 button:focus {
 	outline: none;
 	box-shadow: none;
 }
-
