@@ -2,6 +2,11 @@ body {
 	background-color: #ddd;
 }
 
+#container {
+	height: 50%;
+	text-align: center;
+}
+
 h1 {
 	font-family: helvetica;
 	font-size: 2rem;
@@ -26,3 +31,4 @@ button:focus {
 	outline: none;
 	box-shadow: none;
 }
+
