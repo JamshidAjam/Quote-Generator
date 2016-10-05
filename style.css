@@ -1,10 +1,14 @@
 body {
-	background-color: #ddd;
+	margin: 0;
+	padding: 0;
+	background-image: url(bg.jpg);
+	background-repeat: no-repeat;
 }
 
 #container {
 	height: 50%;
 	text-align: center;
+	color: #fff;
 }
 
 h1 {
