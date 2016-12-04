@@ -19,7 +19,13 @@ var quotes = [
 	'What you do today can improve all your tomorrows.<br>Ralph Marston',
 	'You will never win if you never begin.<br>Helen Rowland',
 	'It does not matter how slowly you go as long as you do not stop.<br>Confucius',
-	'You just can\'t beat the person who never gives up.<br>Babe Ruth'
+	'You just can\'t beat the person who never gives up.<br>Babe Ruth',
+	'Don\'t stay in bed, unless you can make money in bed.<br>George Burns',
+	'You\'ve got to ask yourself one question: \'Do I feel lucky?\' Well, do ya, punk?<br>Dirty Harry',
+	'I have nothing to declare except my genius.<br>Oscar Wilde',
+	'Each problem that I solved became a rule which served afterwards to solve other problems.<br>Rene Descartes',
+	'The artist is nothing without the gift, but the gift is nothing without work.<br>',
+	'When one person suffers from a delusion it is called insanity; when many people suffer from a delusion it is called religion.<br>Robert Pirsig'
 ];
 
 
